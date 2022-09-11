@@ -2,7 +2,7 @@
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
 from time import sleep
-username = "simrichmail"
+username = "labuzogroup"
 password = "dummy_password"
 
 if __name__ == '__main__':
